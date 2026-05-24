@@ -1,14 +1,7 @@
 # Power BI Stuttering Treatment Dashboard
 
 ## Project Overview
-This project analyzes patient stuttering treatment outcomes across multiple clinics and clinicians using interactive Power BI dashboards.
-
----
-
-## Dashboard Overview
-
-![Dashboard Overview](screenshots/dashboard-overview.png)
-
+This project analyzes patient stuttering treatment outcomes across multiple clinics and clinicians using interactive Power BI dashboard
 ---
 
 ## Key Insights
